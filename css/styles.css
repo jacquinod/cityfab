@@ -41,7 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 85, 175, 248;
+  --bs-primary-rgb: 25, 135, 84;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -11319,7 +11319,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #55aff8;
+  background-color: #589772;
   opacity: 1;
 }
 
@@ -11392,7 +11392,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(33, 139, 66, 0.4) 0%, rgba(64, 143, 98, 0.3) 100%), url("../assets/img/Scene.jpg");
+  background: linear-gradient(to bottom, rgba(33, 139, 66, 0.6) 0%, rgba(64, 143, 98, 0.3) 100%), url("../assets/img/Scene.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
